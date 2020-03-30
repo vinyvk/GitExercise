@@ -1,6 +1,6 @@
-chicken power
-vegitable strong
-pizza junk
-fruits proteins
+chicken power 2000
+vegitable strong 2500
+pizza junk 6000
+fruits proteins 3521
 The End
 
